@@ -1,0 +1,100 @@
+PIZZA SALES DATA ANALYSIS.
+
+ABOUT
+
+In this Project I look into analyzing pizza sales data to understand customer preferences, popular pizzas, and sales trends. By exploring factors like size, category, price, and ingredients, we aim to help pizza businesses optimize their menus, target marketing efforts, and make informed decisions about pricing and inventory.
+
+PROBLEM STATEMENT
+
+KPI's REQUIREMENT;
+We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically we want to calculate the following metrics:
+
+A.KPI’s. (SQL/POWER BI)
+
+1. Total Revenue:
+   The sum of the total price of all pizza orders 
+
+2. Average Order Value
+   The Average amount spent per order, calculated by dividing the total revenue by the total number of orders,.
+ 
+3. Total Pizzas Sold
+   The Sum of quantities of the pizzas sold
+ 
+4. Total Orders
+   Total number of orders placed.
+
+5. Average Pizzas Per Order
+   The Average number of pizzas sold per order,calculated by dividing total number of pizzas sold by the total number of orders.
+
+B.CHARTS REQUIREMENT.
+
+DASHBOARD 1;
+
+We would like to visualize aspects of our pizza sales data to gain insights and understand keytrends. We have identified the following requirements for creating charts:
+
+
+1.Daily Trend for Total Orders.
+  Create a bar chart that displays the daily trends of total orders over a specific time period.This Chart will help us identify any patterns or flactuations in order volumes on a daily basis.
+  
+ 
+2. Monthly/Hourly/Weekly Trend for Orders.
+   Create a line chart that illustrates the hourly trend of total orders throught out the day,this chart will allow us to identify peak hours or periods of high order activity.
+
+
+3.Percentage of Sales by Pizza Category.
+ Create a  pie chart that illustrates the hourly trend of total orders throughout the day.This chart will provide insights into the popularity of various  pizza categories and their contribution to overall sales.
+
+
+4.Percentage of Sales by Pizza Size.
+  Generate a pie chart represents the percentage of sales attributed to different pizza sizes. This chart will help us understand customer preferences for pizza sizes and their impact on sales. 
+
+5.Total Pizzas Sold by Pizza Category.
+  Create a funnel chart that presents the total number of pizza boxes sold for each pizzas sold for each pizza category.This chart will allow us to compare the sales performance of different pizza categories.
+
+DASHBOARD 2;
+
+1.Top 5 Pizzas by Revenue, Total Quantity and Total Orders.
+  Create a barchart highlighting the top 5 best-selling pizza based on the Revenue, Total Quantity, Total Orders. This Chart will help us identify the most popular pizza options.
+
+  
+2.Bottom 5 Pizzas by Revenue, Total Quantity and Total Orders.
+  Create a barchart highlighting the top 5 best-selling pizza based on the Revenue, Total Quantity, Total Orders. This Chart will help us identify the less popular pizza options.
+  
+INSIGHTS & RECOMMENDATIONS.
+
+INSIGHTS;
+~The total Revenue was $817.86K.
+~The Average order value was 38.31
+~Total pizzas sold was 49,574.
+~Total orders was 21,350
+~Avg Pizzas per order was 2.32.
+~Fridays had the highest orders , Sunday having the lowest orders. 
+~Orders are highest on the Weekends
+~Month of July had the highest number of orders,October having the lowest orders.
+~Classic category contributes to the highest number of sales and Total orders as well.
+~Large pizzas contribute to the Highest sales.
+~The Thai Chicken pizza contributes to the Maximum Revenue
+~The Classic Deluxe pizza contributes to the Maximum quantities ordered
+~The Classic Deluxe pizza contributes to the Maximum Total orders.
+~The Brie Carre Pizza contributes to minimum Revenue, Quantities and Total orders.
+
+
+Based on the insights above here are some recommendations:
+
+1.Promote Weekend Specials: Since orders are highest on weekends, consider offering special deals or promotions during these days to attract more customers and increase sales further.
+
+2.Marketing Focus on Fridays: Given that Fridays have the highest orders, allocate marketing efforts towards promoting Friday specials or discounts to capitalize on this peak day.
+
+3.Seasonal Promotions: Take advantage of the high sales in July by running seasonal promotions or themed menus tailored to summer preferences. Similarly, explore opportunities to boost sales during slower months like October by offering incentives or limited-time offers.
+
+4.Menu Optimization: Since the Classic category contributes significantly to sales, consider expanding the menu within this category or highlighting popular classic pizzas to drive more sales. Additionally, evaluate the performance of less popular items like the Brie Carre Pizza and consider replacing or repositioning them on the menu.
+
+5.Upselling and Cross-selling: Encourage customers to add more items to their orders by implementing upselling and cross-selling strategies. For example, offer combo deals or suggest complementary items like beverages or desserts to increase the average order value.
+
+6.Customer Loyalty Programs: Implement a customer loyalty program to reward repeat customers and encourage them to order more frequently. Offer incentives such as discounts, freebies, or exclusive deals to incentivize loyalty and increase customer retention.
+
+7.Enhance Online Ordering Experience: Streamline the online ordering process and ensure a seamless user experience across all devices. Consider implementing features like saved orders, quick reorder options, and personalized recommendations to make ordering more convenient and enticing for customers.
+
+By implementing these recommendations, you can optimize sales, increase customer satisfaction, and drive overall growth in your pizza business.
+
+END!
